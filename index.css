@@ -1,0 +1,9 @@
+index.css
+body{	background-image: url(background7.jpg);
+		background-repeat: no-repeat;
+		background-position: top
+	}
+h1{color: lemonchiffon; text-align: left; font-family: Berlin Sans FB Demi;font-style: normal ;margin: 40px}
+ul{border: 3px solid rgb(0,0,153); margin: 40px ; font-family: Arial Round MT Bold; font-size:130%;}
+p{color: midnightblue ;text-align:center; font-family: Bahnscrift SemiBold ; font-size: 20px;}
+img{text-align: center; border-radius: 50%;}
